@@ -1,5 +1,3 @@
-# rafid.github.io
-project website
 <!DOCTYPE html>
 <html>
     <head>
